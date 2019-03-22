@@ -1,0 +1,7 @@
+bs4
+multiprocessing
+os
+re
+requests
+socket
+time
