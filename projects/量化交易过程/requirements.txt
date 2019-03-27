@@ -1,11 +1,6 @@
 CTPMarket
 CTPTrader
-Django
-Google
 IniFile
-SoC
-acf
-foo
 matplotlib
 numpy
 pandas
@@ -15,11 +10,3 @@ seaborn
 statsmodels
 time
 tushare
-x
-之后使用
-分组及顺序
-基于
-应用程序特有的内容
-应该按照从最常用到最不常用的顺序分组放置
-标准库
-第三方库
