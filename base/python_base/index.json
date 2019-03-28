@@ -1,28 +1,25 @@
 {
     "labs": [
         {
-            "ces.ipynb": "ces"
+            "1、python是什么.ipynb": "1、python是什么"
         },
         {
-            "一、python是什么.ipynb": "一、python是什么"
+            "2、第一个python程序.ipynb": "2、第一个python程序"
         },
         {
-            "七、对象.ipynb": "七、对象"
+            "3、基本语法.ipynb": "3、基本语法"
         },
         {
-            "三、基本语法.ipynb": "三、基本语法"
+            "4、函数.ipynb": "4、函数"
         },
         {
-            "二、第一个python程序.ipynb": "二、第一个python程序"
+            "5、高级特性.ipynb": "5、高级特性"
         },
         {
-            "五、高级特性.ipynb": "五、高级特性"
+            "6、模块.ipynb": "6、模块"
         },
         {
-            "六、模块.ipynb": "六、模块"
-        },
-        {
-            "四、函数.ipynb": "四、函数"
+            "7、对象.ipynb": "7、对象"
         }
     ]
 }

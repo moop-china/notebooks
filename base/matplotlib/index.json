@@ -1,13 +1,13 @@
 {
     "labs": [
         {
-            "一、matplotlib简介.ipynb": "一、matplotlib简介"
+            "1、matplotlib简介.ipynb": "1、matplotlib简介"
         },
         {
-            "三、高级用法.ipynb": "三、高级用法"
+            "2、基本用法.ipynb": "2、基本用法"
         },
         {
-            "二、基本用法.ipynb": "二、基本用法"
+            "3、高级用法.ipynb": "3、高级用法"
         }
     ]
 }
