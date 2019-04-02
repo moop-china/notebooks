@@ -2,6 +2,9 @@
     "labs": [
         {
             "1、seaborn基础.ipynb": "1、seaborn基础"
+        },
+        {
+            "2、seaborn更加细节的画图.ipynb": "2、seaborn更加细节的画图"
         }
     ]
 }
